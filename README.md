@@ -5,3 +5,6 @@ download: https://drive.google.com/file/d/1mDkH8pm6V4OPzE-06XMmjGlfuBVttbWO/view
 
 I think your antivirus will get mad because the program involves reading, creating, and removing files.
 
+simply just run the bat file called run
+
+also, it doesn't hurt to read the readme.txt inside of the project.
