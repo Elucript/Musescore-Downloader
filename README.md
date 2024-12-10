@@ -11,5 +11,7 @@ doesn't require python
 
 EXECUTABLE: [https://drive.google.com/file/d/1SCVdsii6HPLPk_uAy7-XWa_cUPABrAgt/view](https://drive.google.com/file/d/1DfpXtHlmf8485X-WWFSqJswl1hfZx4Ql/view?usp=sharing)
 
+if you just want the source code refer to the main.py script (make sure you pip install all the libraries and have python 3.11+ installed)
+
 I think your antivirus will get mad because the program involves reading, creating, and removing files.
 also, it doesn't hurt to read the readme.txt inside of the project.
